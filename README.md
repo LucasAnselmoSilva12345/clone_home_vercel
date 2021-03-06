@@ -26,7 +26,7 @@ Clone da interface de login do site da Vercel, com tema light e dark, igual suge
 
 ## 👨‍💻 Site
 
-- [Login - Vercel](https://modest-kowalevski-0dc419.netlify.app)
+- [Login - Vercel](https://eloquent-kilby-e4a3b5.netlify.app/)
 
 ## © - Responsável pelo desenvolvimento do site
 
